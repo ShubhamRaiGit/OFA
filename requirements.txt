@@ -16,4 +16,4 @@ python-Levenshtein
 zhconv
 pypinyin==0.47.1
 g2p_en
-pycocotools==2.0.6
+
