@@ -1,7 +1,7 @@
 -e ./fairseq/
 opencv-python
 timm
-ftfy==6.0.3
+ftfy
 tensorboardX==2.4.1
 pycocotools==2.0.4
 pycocoevalcap==1.2
@@ -16,3 +16,4 @@ python-Levenshtein
 zhconv
 pypinyin==0.47.1
 g2p_en
+pycocotools==2.0.6
